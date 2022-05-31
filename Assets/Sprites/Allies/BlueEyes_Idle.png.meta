@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 326a018164fa0934785b8d9420e8ef71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8179526145114608353
+    second: BlueEyes_Idle_0
+  - first:
+      213: 632742229442000353
+    second: BlueEyes_Idle_1
+  - first:
+      213: 5934386451098943663
+    second: BlueEyes_Idle_2
+  - first:
+      213: -8155401381321316693
+    second: BlueEyes_Idle_3
+  - first:
+      213: -6507334793495948831
+    second: BlueEyes_Idle_4
+  - first:
+      213: -6727388105778485111
+    second: BlueEyes_Idle_5
+  - first:
+      213: 6416787490022734310
+    second: BlueEyes_Idle_6
+  - first:
+      213: 7556142213987953736
+    second: BlueEyes_Idle_7
+  - first:
+      213: -4358868564943188787
+    second: BlueEyes_Idle_8
+  - first:
+      213: -2838485370651496431
+    second: BlueEyes_Idle_9
+  - first:
+      213: 8216352014407013346
+    second: BlueEyes_Idle_10
+  - first:
+      213: -2238311024064626096
+    second: BlueEyes_Idle_11
+  - first:
+      213: 8504916589631789948
+    second: BlueEyes_Idle_12
+  - first:
+      213: 1712990517346189377
+    second: BlueEyes_Idle_13
+  - first:
+      213: 1899319866885767847
+    second: BlueEyes_Idle_14
+  - first:
+      213: 5650075805167712306
+    second: BlueEyes_Idle_15
+  - first:
+      213: 5575892698109765461
+    second: BlueEyes_Idle_16
+  - first:
+      213: 7001685224008398607
+    second: BlueEyes_Idle_17
+  - first:
+      213: -7183977644045945634
+    second: BlueEyes_Idle_18
+  - first:
+      213: -1176209822544642418
+    second: BlueEyes_Idle_19
+  - first:
+      213: 3901300095601864964
+    second: BlueEyes_Idle_20
+  - first:
+      213: 3406511154732310890
+    second: BlueEyes_Idle_21
+  - first:
+      213: 8215518087771523172
+    second: BlueEyes_Idle_22
+  - first:
+      213: 786781176935181518
+    second: BlueEyes_Idle_23
+  - first:
+      213: 3485485688473723145
+    second: BlueEyes_Idle_24
+  - first:
+      213: -6843245375925788069
+    second: BlueEyes_Idle_25
+  - first:
+      213: 2905063330350127556
+    second: BlueEyes_Idle_26
+  - first:
+      213: 734228793834425709
+    second: BlueEyes_Idle_27
+  - first:
+      213: 8712442333208750104
+    second: BlueEyes_Idle_28
+  - first:
+      213: -3165927348132012060
+    second: BlueEyes_Idle_29
+  - first:
+      213: 210499150059722584
+    second: BlueEyes_Idle_30
+  - first:
+      213: -2257132504306460945
+    second: BlueEyes_Idle_31
+  - first:
+      213: 7450595194843441182
+    second: BlueEyes_Idle_32
+  - first:
+      213: 1990745731344695233
+    second: BlueEyes_Idle_33
+  - first:
+      213: -3207771239328125670
+    second: BlueEyes_Idle_34
+  - first:
+      213: 8838028382851577081
+    second: BlueEyes_Idle_35
+  - first:
+      213: 5311698670447834586
+    second: BlueEyes_Idle_36
+  - first:
+      213: 4163356336202190031
+    second: BlueEyes_Idle_37
+  - first:
+      213: -5726273802392524749
+    second: BlueEyes_Idle_38
+  - first:
+      213: 1149199478705318120
+    second: BlueEyes_Idle_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueEyes_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2939621b3838170800000000000000
+      internalID: 8179526145114608353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5774c84b3f7c800800000000000000
+      internalID: 632742229442000353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0c4a9190d2b5250800000000000000
+      internalID: 5934386451098943663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ec9127a132de80800000000000000
+      internalID: -8155401381321316693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1522f8b7d41b5a0800000000000000
+      internalID: -6507334793495948831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a2e8392483a2a0800000000000000
+      internalID: -6727388105778485111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9b9fd79320d0950800000000000000
+      internalID: 6416787490022734310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ce5193f4fccd860800000000000000
+      internalID: 7556142213987953736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccc1fb62203283c0800000000000000
+      internalID: -4358868564943188787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110bc26289cab98d0800000000000000
+      internalID: -2838485370651496431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39b4000a8560270800000000000000
+      internalID: 8216352014407013346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05289c19bfbefe0e0800000000000000
+      internalID: -2238311024064626096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b5459c398870670800000000000000
+      internalID: 8504916589631789948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140480abcc3c5c710800000000000000
+      internalID: 1712990517346189377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2819c1b5dbb5a10800000000000000
+      internalID: 1899319866885767847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238fc09620a196e40800000000000000
+      internalID: 5650075805167712306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e688dddc816d40800000000000000
+      internalID: 5575892698109765461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f073f1e5d9bfa2160800000000000000
+      internalID: 7001685224008398607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43b4425626d4c90800000000000000
+      internalID: -7183977644045945634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb6e1f5634dafe0800000000000000
+      internalID: -1176209822544642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401fb8854c3342630800000000000000
+      internalID: 3901300095601864964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a935c8db564f20800000000000000
+      internalID: 3406511154732310890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680b635c22630270800000000000000
+      internalID: 8215518087771523172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc6f27df453bea00800000000000000
+      internalID: 786781176935181518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9012f2b44ceee5030800000000000000
+      internalID: 3485485688473723145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52eb117698e701a0800000000000000
+      internalID: -6843245375925788069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9588f05bbd05820800000000000000
+      internalID: 2905063330350127556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4d58a231803a00800000000000000
+      internalID: 734228793834425709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818abfc3420d8e870800000000000000
+      internalID: 8712442333208750104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef95e5c9dd5014d0800000000000000
+      internalID: -3165927348132012060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857d4d89cd7dbe200800000000000000
+      internalID: 210499150059722584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe653d532fd0da0e0800000000000000
+      internalID: -2257132504306460945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1820e1dad4d56760800000000000000
+      internalID: 7450595194843441182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cffceaf1bc80ab10800000000000000
+      internalID: 1990745731344695233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de127ad05bb73d0800000000000000
+      internalID: -3207771239328125670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f430b20dfbf6aa70800000000000000
+      internalID: 8838028382851577081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad535f55cc1f6b940800000000000000
+      internalID: 5311698670447834586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc04b4878637c930800000000000000
+      internalID: 4163356336202190031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a4c9d0503880b0800000000000000
+      internalID: -5726273802392524749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueEyes_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86b4056d6c2ff00800000000000000
+      internalID: 1149199478705318120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

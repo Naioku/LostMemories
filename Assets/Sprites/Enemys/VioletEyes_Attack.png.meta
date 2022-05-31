@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 9d9623fdf2239dd48ab4b6443bfbb1b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7113321073440494405
+    second: VioletEyes_Attack_0
+  - first:
+      213: -1482501806070439320
+    second: VioletEyes_Attack_1
+  - first:
+      213: 5920694136108545933
+    second: VioletEyes_Attack_2
+  - first:
+      213: -5577786469210377452
+    second: VioletEyes_Attack_3
+  - first:
+      213: 5679643277900058243
+    second: VioletEyes_Attack_4
+  - first:
+      213: 5845248003677512961
+    second: VioletEyes_Attack_5
+  - first:
+      213: 3088892085851965603
+    second: VioletEyes_Attack_6
+  - first:
+      213: 3198882907987989440
+    second: VioletEyes_Attack_7
+  - first:
+      213: 57846649659570610
+    second: VioletEyes_Attack_8
+  - first:
+      213: -1148755341711911607
+    second: VioletEyes_Attack_9
+  - first:
+      213: 5716833597805721038
+    second: VioletEyes_Attack_10
+  - first:
+      213: 6483854893657467789
+    second: VioletEyes_Attack_11
+  - first:
+      213: 7618321096365701697
+    second: VioletEyes_Attack_12
+  - first:
+      213: 388952751086830310
+    second: VioletEyes_Attack_13
+  - first:
+      213: 3805806023452387512
+    second: VioletEyes_Attack_14
+  - first:
+      213: 6973315533785064489
+    second: VioletEyes_Attack_15
+  - first:
+      213: -1881287516339488688
+    second: VioletEyes_Attack_16
+  - first:
+      213: 6372425659396597433
+    second: VioletEyes_Attack_17
+  - first:
+      213: -7401164927010181487
+    second: VioletEyes_Attack_18
+  - first:
+      213: 379594856790044918
+    second: VioletEyes_Attack_19
+  - first:
+      213: 5420892673675045761
+    second: VioletEyes_Attack_20
+  - first:
+      213: -8443116330316752717
+    second: VioletEyes_Attack_21
+  - first:
+      213: 6960134461575227915
+    second: VioletEyes_Attack_22
+  - first:
+      213: 4739407392016921711
+    second: VioletEyes_Attack_23
+  - first:
+      213: 936804846509575190
+    second: VioletEyes_Attack_24
+  - first:
+      213: -620168479781017816
+    second: VioletEyes_Attack_25
+  - first:
+      213: -1152230372319916261
+    second: VioletEyes_Attack_26
+  - first:
+      213: -6951268625592252968
+    second: VioletEyes_Attack_27
+  - first:
+      213: 6987433335967650623
+    second: VioletEyes_Attack_28
+  - first:
+      213: -4303794212376180626
+    second: VioletEyes_Attack_29
+  - first:
+      213: -3180451111850494476
+    second: VioletEyes_Attack_30
+  - first:
+      213: -6884788665143571486
+    second: VioletEyes_Attack_31
+  - first:
+      213: 5309683119780300900
+    second: VioletEyes_Attack_32
+  - first:
+      213: -2122346715899966436
+    second: VioletEyes_Attack_33
+  - first:
+      213: 966653694798420153
+    second: VioletEyes_Attack_34
+  - first:
+      213: -6747991500523832665
+    second: VioletEyes_Attack_35
+  - first:
+      213: -3353665277147844766
+    second: VioletEyes_Attack_36
+  - first:
+      213: -248514453248207542
+    second: VioletEyes_Attack_37
+  - first:
+      213: -8297606562803557409
+    second: VioletEyes_Attack_38
+  - first:
+      213: -6703765578602635663
+    second: VioletEyes_Attack_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VioletEyes_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc6744fb28684d90800000000000000
+      internalID: -7113321073440494405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862eb4646781d6be0800000000000000
+      internalID: -1482501806070439320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87fc7692f78a2250800000000000000
+      internalID: 5920694136108545933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4133cb532c8b792b0800000000000000
+      internalID: -5577786469210377452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e0b2e187522de40800000000000000
+      internalID: 5679643277900058243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056243071e7e1150800000000000000
+      internalID: 5845248003677512961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8c8b68cf2fdda20800000000000000
+      internalID: 3088892085851965603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c351b07e07b46c20800000000000000
+      internalID: 3198882907987989440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9b76ca8338dc000800000000000000
+      internalID: 57846649659570610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945dd636a1dce00f0800000000000000
+      internalID: -1148755341711911607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57a3d3ed5465f40800000000000000
+      internalID: 5716833597805721038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba1af3ca74bf950800000000000000
+      internalID: 6483854893657467789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14afdbd6ca6b9b960800000000000000
+      internalID: 7618321096365701697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e201f26776d56500800000000000000
+      internalID: 388952751086830310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8ebef0a60f0d430800000000000000
+      internalID: 3805806023452387512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e8f1288136c060800000000000000
+      internalID: 6973315533785064489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058353ca8f254e5e0800000000000000
+      internalID: -1881287516339488688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b62be9ef576f6850800000000000000
+      internalID: 6372425659396597433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6a7146b7c94990800000000000000
+      internalID: -7401164927010181487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03985d287944500800000000000000
+      internalID: 379594856790044918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b2be36a21ea3b40800000000000000
+      internalID: 5420892673675045761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89b2e5e6604da80800000000000000
+      internalID: -8443116330316752717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a652b9a6d579060800000000000000
+      internalID: 6960134461575227915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64770f99e1c5c140800000000000000
+      internalID: 4739407392016921711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c41146b03300d00800000000000000
+      internalID: 936804846509575190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82722cdad08b467f0800000000000000
+      internalID: -620168479781017816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8476c4947200f0800000000000000
+      internalID: -1152230372319916261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58141b302288f90800000000000000
+      internalID: -6951268625592252968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33131a199958f060800000000000000
+      internalID: 6987433335967650623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e688fe067f9d544c0800000000000000
+      internalID: -4303794212376180626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b7a48094ccd3d0800000000000000
+      internalID: -3180451111850494476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4b7caf215470a0800000000000000
+      internalID: -6884788665143571486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46884606aa8cfa940800000000000000
+      internalID: 5309683119780300900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc09418e8eb82e0800000000000000
+      internalID: -2122346715899966436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b85743f96e3a6d00800000000000000
+      internalID: 966653694798420153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafbef8b715a52a0800000000000000
+      internalID: -6747991500523832665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f6a0ce2336571d0800000000000000
+      internalID: -3353665277147844766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451794eb691d8cf0800000000000000
+      internalID: -248514453248207542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbd4223bcaf8dc80800000000000000
+      internalID: -8297606562803557409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VioletEyes_Attack_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e16ed69b077f2a0800000000000000
+      internalID: -6703765578602635663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

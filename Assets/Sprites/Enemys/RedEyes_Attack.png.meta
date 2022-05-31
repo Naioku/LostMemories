@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: d2ff4b62e0165564bbf4dd486afc5d2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4126829080222527372
+    second: RedEyes_Attack_0
+  - first:
+      213: 2794729169460032957
+    second: RedEyes_Attack_1
+  - first:
+      213: -9205886106230223906
+    second: RedEyes_Attack_2
+  - first:
+      213: 494537505500262427
+    second: RedEyes_Attack_3
+  - first:
+      213: -644004265181506277
+    second: RedEyes_Attack_4
+  - first:
+      213: -4395690574818312626
+    second: RedEyes_Attack_5
+  - first:
+      213: -6919607945530332218
+    second: RedEyes_Attack_6
+  - first:
+      213: 7552504349064619154
+    second: RedEyes_Attack_7
+  - first:
+      213: -3839523074414814364
+    second: RedEyes_Attack_8
+  - first:
+      213: -1931181084686304004
+    second: RedEyes_Attack_9
+  - first:
+      213: -2897118796715688403
+    second: RedEyes_Attack_10
+  - first:
+      213: 3903802129911147097
+    second: RedEyes_Attack_11
+  - first:
+      213: 8330543346985161644
+    second: RedEyes_Attack_12
+  - first:
+      213: -3423351596885284273
+    second: RedEyes_Attack_13
+  - first:
+      213: -3299574392041442603
+    second: RedEyes_Attack_14
+  - first:
+      213: -9134462569460674104
+    second: RedEyes_Attack_15
+  - first:
+      213: 7496185108004425245
+    second: RedEyes_Attack_16
+  - first:
+      213: -3386734543234785327
+    second: RedEyes_Attack_17
+  - first:
+      213: -6442468111505105722
+    second: RedEyes_Attack_18
+  - first:
+      213: -3080436797472256364
+    second: RedEyes_Attack_19
+  - first:
+      213: 1522364656070762320
+    second: RedEyes_Attack_20
+  - first:
+      213: -2687807507567342805
+    second: RedEyes_Attack_21
+  - first:
+      213: -3151997534500121380
+    second: RedEyes_Attack_22
+  - first:
+      213: 2254924927374523267
+    second: RedEyes_Attack_23
+  - first:
+      213: -5046870784458865424
+    second: RedEyes_Attack_24
+  - first:
+      213: -3277145060576293316
+    second: RedEyes_Attack_25
+  - first:
+      213: -5712798254677135612
+    second: RedEyes_Attack_26
+  - first:
+      213: 3191343807509189040
+    second: RedEyes_Attack_27
+  - first:
+      213: -7812016594268816581
+    second: RedEyes_Attack_28
+  - first:
+      213: 7457903063445678297
+    second: RedEyes_Attack_29
+  - first:
+      213: 9104169170557920161
+    second: RedEyes_Attack_30
+  - first:
+      213: -5139819959232311933
+    second: RedEyes_Attack_31
+  - first:
+      213: -2261376582301806771
+    second: RedEyes_Attack_32
+  - first:
+      213: -3469307743530707988
+    second: RedEyes_Attack_33
+  - first:
+      213: -9006696693217671536
+    second: RedEyes_Attack_34
+  - first:
+      213: -4004189875052276105
+    second: RedEyes_Attack_35
+  - first:
+      213: -4091049758826110523
+    second: RedEyes_Attack_36
+  - first:
+      213: 2093307021115452550
+    second: RedEyes_Attack_37
+  - first:
+      213: -438596106290812597
+    second: RedEyes_Attack_38
+  - first:
+      213: 4088618142901148378
+    second: RedEyes_Attack_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedEyes_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470959001de8ab6c0800000000000000
+      internalID: -4126829080222527372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5761d5f5fd8c620800000000000000
+      internalID: 2794729169460032957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb817b7c5f1e3080800000000000000
+      internalID: -9205886106230223906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107377bd33fcd600800000000000000
+      internalID: 494537505500262427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15150c68890017f0800000000000000
+      internalID: -644004265181506277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4efb6926be5ff2c0800000000000000
+      internalID: -4395690574818312626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba1b53c3d98ff90800000000000000
+      internalID: -6919607945530332218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294e69ac0b2efc860800000000000000
+      internalID: 7552504349064619154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd6924b1647bac0800000000000000
+      internalID: -3839523074414814364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcb15a09011335e0800000000000000
+      internalID: -1931181084686304004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e77a1ddcd5bc7d0800000000000000
+      internalID: -2897118796715688403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a64ca9a571d2630800000000000000
+      internalID: 3903802129911147097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca35b0779090c9370800000000000000
+      internalID: 8330543346985161644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae26e3cdfcd70d0800000000000000
+      internalID: -3423351596885284273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f464829e8532d0800000000000000
+      internalID: -3299574392041442603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d13580bedb3180800000000000000
+      internalID: -9134462569460674104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4d25a3acc70860800000000000000
+      internalID: 7496185108004425245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df12f960e6eff0d0800000000000000
+      internalID: -3386734543234785327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccd4f0e261c796a0800000000000000
+      internalID: -6442468111505105722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ecf95bd071045d0800000000000000
+      internalID: -3080436797472256364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f15bfb696802510800000000000000
+      internalID: 1522364656070762320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b02deff4df2bad0800000000000000
+      internalID: -2687807507567342805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4963f31fad144d0800000000000000
+      internalID: -3151997534500121380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf45b364a1b4f10800000000000000
+      internalID: 2254924927374523267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f44801d2c9e5f9b0800000000000000
+      internalID: -5046870784458865424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8ce23eed3582d0800000000000000
+      internalID: -3277145060576293316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f6f7c414018b0b0800000000000000
+      internalID: -5712798254677135612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b15ab2d84ee94c20800000000000000
+      internalID: 3191343807509189040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b762f1c44269390800000000000000
+      internalID: -7812016594268816581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d82af1925bcf7760800000000000000
+      internalID: 7457903063445678297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ea2aef91885e70800000000000000
+      internalID: 9104169170557920161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dce70aaf0bba8b0800000000000000
+      internalID: -5139819959232311933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f838ccaf9fd90e0800000000000000
+      internalID: -2261376582301806771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3175a0dfa8adfc0800000000000000
+      internalID: -3469307743530707988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964319b319c10380800000000000000
+      internalID: -9006696693217671536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761b4416824e68c0800000000000000
+      internalID: -4004189875052276105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e8be6beba937c0800000000000000
+      internalID: -4091049758826110523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cea6715abec0d10800000000000000
+      internalID: 2093307021115452550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49aaa44a2bc9e9f0800000000000000
+      internalID: -438596106290812597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Attack_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada17ddd980bdb830800000000000000
+      internalID: 4088618142901148378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
