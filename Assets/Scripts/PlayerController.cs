@@ -193,10 +193,8 @@ public class PlayerController : MonoBehaviour
 
     private void ManagePlayerMovement()
     {
-        if (!_rigidbody2D.IsTouchingLayers(LayerMask.GetMask("Ground")))
-        {
-            MovePlayerHorizontal();
-        }
+        MovePlayerHorizontal();
+        
         if (IsClimbingPossible() && !IsInJumpingState())
         {
             MovePlayerVertical();
