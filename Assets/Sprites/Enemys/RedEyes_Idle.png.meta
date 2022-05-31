@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 17ab6180274e2924da6e7fa6d3d29574
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3115252531145648984
+    second: RedEyes_Idle_0
+  - first:
+      213: 4381262944107794120
+    second: RedEyes_Idle_1
+  - first:
+      213: -3006576465187455172
+    second: RedEyes_Idle_2
+  - first:
+      213: 6658980222045953403
+    second: RedEyes_Idle_3
+  - first:
+      213: 8387823074795811974
+    second: RedEyes_Idle_4
+  - first:
+      213: 4826297239457673863
+    second: RedEyes_Idle_5
+  - first:
+      213: 4629044296761186384
+    second: RedEyes_Idle_6
+  - first:
+      213: 4522583772921834560
+    second: RedEyes_Idle_7
+  - first:
+      213: -998907595979810048
+    second: RedEyes_Idle_8
+  - first:
+      213: 1644818599110415251
+    second: RedEyes_Idle_9
+  - first:
+      213: -8993327078539373831
+    second: RedEyes_Idle_10
+  - first:
+      213: -62278867552527412
+    second: RedEyes_Idle_11
+  - first:
+      213: -4877652528731954073
+    second: RedEyes_Idle_12
+  - first:
+      213: -8030883675067628808
+    second: RedEyes_Idle_13
+  - first:
+      213: -1104606225324759376
+    second: RedEyes_Idle_14
+  - first:
+      213: -5830458093178415942
+    second: RedEyes_Idle_15
+  - first:
+      213: 7922483653785377853
+    second: RedEyes_Idle_16
+  - first:
+      213: 636821864691583547
+    second: RedEyes_Idle_17
+  - first:
+      213: 5922767954763938666
+    second: RedEyes_Idle_18
+  - first:
+      213: -7628838692409816303
+    second: RedEyes_Idle_19
+  - first:
+      213: -362344331438609815
+    second: RedEyes_Idle_20
+  - first:
+      213: 9198148870053109397
+    second: RedEyes_Idle_21
+  - first:
+      213: 7313435628261877418
+    second: RedEyes_Idle_22
+  - first:
+      213: -2158297125717969145
+    second: RedEyes_Idle_23
+  - first:
+      213: 595181020506415773
+    second: RedEyes_Idle_24
+  - first:
+      213: 3508562412057527769
+    second: RedEyes_Idle_25
+  - first:
+      213: 445246811835918196
+    second: RedEyes_Idle_26
+  - first:
+      213: 1861047011834771613
+    second: RedEyes_Idle_27
+  - first:
+      213: 4871997541092014033
+    second: RedEyes_Idle_28
+  - first:
+      213: 469692786353398751
+    second: RedEyes_Idle_29
+  - first:
+      213: -4661036192724201303
+    second: RedEyes_Idle_30
+  - first:
+      213: -931680299467633671
+    second: RedEyes_Idle_31
+  - first:
+      213: 4077044058672343849
+    second: RedEyes_Idle_32
+  - first:
+      213: 1230737120884342316
+    second: RedEyes_Idle_33
+  - first:
+      213: -5963345181943208347
+    second: RedEyes_Idle_34
+  - first:
+      213: -3676500061270408780
+    second: RedEyes_Idle_35
+  - first:
+      213: -1661752506187722037
+    second: RedEyes_Idle_36
+  - first:
+      213: 2285081992504421088
+    second: RedEyes_Idle_37
+  - first:
+      213: 4937619948349262246
+    second: RedEyes_Idle_38
+  - first:
+      213: -5806986046527776310
+    second: RedEyes_Idle_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedEyes_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ba298fba99b3b20800000000000000
+      internalID: 3115252531145648984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce802b4f6f5dcc30800000000000000
+      internalID: 4381262944107794120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb37a62ae7646d0800000000000000
+      internalID: -3006576465187455172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d966d2b33796c50800000000000000
+      internalID: 6658980222045953403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684770c55a8876470800000000000000
+      internalID: 8387823074795811974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b25ab4c37af240800000000000000
+      internalID: 4826297239457673863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589ffd134bad3040800000000000000
+      internalID: 4629044296761186384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ca3f3daf173ce30800000000000000
+      internalID: 4522583772921834560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b1f2a75da2322f0800000000000000
+      internalID: -998907595979810048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3939eef1dc193d610800000000000000
+      internalID: 1644818599110415251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f252c6bba8413380800000000000000
+      internalID: -8993327078539373831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb948e23bdb22ff0800000000000000
+      internalID: -62278867552527412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76465273ed81f4cb0800000000000000
+      internalID: -4877652528731954073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24c13d8d19c8090800000000000000
+      internalID: -8030883675067628808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b625d29d76aba0f0800000000000000
+      internalID: -1104606225324759376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab49c4e514d061fa0800000000000000
+      internalID: -5830458093178415942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c57b278e052fd60800000000000000
+      internalID: 7922483653785377853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac426ac1276d800800000000000000
+      internalID: 636821864691583547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b75ce1316e13250800000000000000
+      internalID: 5922767954763938666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b482ae0abe02690800000000000000
+      internalID: -7628838692409816303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa93610c1b8faf0800000000000000
+      internalID: -362344331438609815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1da6d9a366af70800000000000000
+      internalID: 9198148870053109397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62c36a4fa8e7560800000000000000
+      internalID: 7313435628261877418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70775d503303c02e0800000000000000
+      internalID: -2158297125717969145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e6581cf1824800800000000000000
+      internalID: 595181020506415773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50af2bceae0b030800000000000000
+      internalID: 3508562412057527769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ead8cd95dd2600800000000000000
+      internalID: 445246811835918196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98b6b2a564c3d910800000000000000
+      internalID: 1861047011834771613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7bd5f53ffcc9340800000000000000
+      internalID: 4871997541092014033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36824c91fa48600800000000000000
+      internalID: 469692786353398751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05f67274ca05fb0800000000000000
+      internalID: -4661036192724201303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb800234b10213f0800000000000000
+      internalID: -931680299467633671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b28c268f1949830800000000000000
+      internalID: 4077044058672343849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb23604e4741110800000000000000
+      internalID: 1230737120884342316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ec35f621fd3da0800000000000000
+      internalID: -5963345181943208347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b186475ca27afcc0800000000000000
+      internalID: -3676500061270408780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2d01466e440f8e0800000000000000
+      internalID: -1661752506187722037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea2edd17fd36bf10800000000000000
+      internalID: 2285081992504421088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a98d31be23f58440800000000000000
+      internalID: 4937619948349262246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedEyes_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9df0915f0796fa0800000000000000
+      internalID: -5806986046527776310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

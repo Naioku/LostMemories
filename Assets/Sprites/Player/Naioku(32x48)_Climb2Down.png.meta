@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: d16678e628907ad48a13569a515892ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5577043001722376955
+    second: Naioku(32x48)_Climb2Down_0
+  - first:
+      213: 4583172209612376618
+    second: Naioku(32x48)_Climb2Down_1
+  - first:
+      213: -1617011880542794254
+    second: Naioku(32x48)_Climb2Down_2
+  - first:
+      213: -5646916778363029365
+    second: Naioku(32x48)_Climb2Down_3
+  - first:
+      213: -4625527185382252867
+    second: Naioku(32x48)_Climb2Down_4
+  - first:
+      213: 2948064588911999452
+    second: Naioku(32x48)_Climb2Down_5
+  - first:
+      213: 4292332283572136000
+    second: Naioku(32x48)_Climb2Down_6
+  - first:
+      213: -1821157300476729432
+    second: Naioku(32x48)_Climb2Down_7
+  - first:
+      213: -321873966743899354
+    second: Naioku(32x48)_Climb2Down_8
+  - first:
+      213: -6235806755836654959
+    second: Naioku(32x48)_Climb2Down_9
+  - first:
+      213: 7037281114557025823
+    second: Naioku(32x48)_Climb2Down_10
+  - first:
+      213: 5391121937338306093
+    second: Naioku(32x48)_Climb2Down_11
+  - first:
+      213: -3851219816371018055
+    second: Naioku(32x48)_Climb2Down_12
+  - first:
+      213: 8964663702392938107
+    second: Naioku(32x48)_Climb2Down_13
+  - first:
+      213: 164992407932368353
+    second: Naioku(32x48)_Climb2Down_14
+  - first:
+      213: 8754761140780154286
+    second: Naioku(32x48)_Climb2Down_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1696
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d624930fc5a92b0800000000000000
+      internalID: -5577043001722376955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1584
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a436a87d2ba9f30800000000000000
+      internalID: 4583172209612376618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1472
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd09ae03483f89e0800000000000000
+      internalID: -1617011880542794254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1360
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887a75db1f12a1b0800000000000000
+      internalID: -5646916778363029365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1248
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed0603883decfb0800000000000000
+      internalID: -4625527185382252867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1136
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f105cf11a9e820800000000000000
+      internalID: 2948064588911999452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048224c587d619b30800000000000000
+      internalID: 4292332283572136000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 912
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a9f88513f9b6e0800000000000000
+      internalID: -1821157300476729432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b8c52559788bf0800000000000000
+      internalID: -321873966743899354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a00665bc6f579a0800000000000000
+      internalID: -6235806755836654959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e8cb973e179a160800000000000000
+      internalID: 7037281114557025823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8ddfa6dc11da40800000000000000
+      internalID: 5391121937338306093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a24d4bf7bd8ac0800000000000000
+      internalID: -3851219816371018055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e18f7f322e86c70800000000000000
+      internalID: 8964663702392938107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f17988bb2a4200800000000000000
+      internalID: 164992407932368353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Climb2Down_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead38917fd82f7970800000000000000
+      internalID: 8754761140780154286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

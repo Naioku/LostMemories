@@ -1,0 +1,1589 @@
+fileFormatVersion: 2
+guid: 186a16e0d69ae3e478e389d8136f26bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3036834857779719007
+    second: GreenEyes_Idle_0
+  - first:
+      213: -7467211038413220989
+    second: GreenEyes_Idle_1
+  - first:
+      213: -3136016623416909857
+    second: GreenEyes_Idle_2
+  - first:
+      213: 2385333469227813782
+    second: GreenEyes_Idle_3
+  - first:
+      213: -5663888578659006187
+    second: GreenEyes_Idle_4
+  - first:
+      213: -4859269617794988399
+    second: GreenEyes_Idle_5
+  - first:
+      213: -2287972736907213685
+    second: GreenEyes_Idle_6
+  - first:
+      213: -7990049488914330826
+    second: GreenEyes_Idle_7
+  - first:
+      213: 531277071336875176
+    second: GreenEyes_Idle_8
+  - first:
+      213: 2550382494050824738
+    second: GreenEyes_Idle_9
+  - first:
+      213: 7036388852642719283
+    second: GreenEyes_Idle_10
+  - first:
+      213: -5403860590243445430
+    second: GreenEyes_Idle_11
+  - first:
+      213: 4990712037935238642
+    second: GreenEyes_Idle_12
+  - first:
+      213: 9067361808352461179
+    second: GreenEyes_Idle_13
+  - first:
+      213: -3033325363933491018
+    second: GreenEyes_Idle_14
+  - first:
+      213: 7965406614205997467
+    second: GreenEyes_Idle_15
+  - first:
+      213: -4539637739129581214
+    second: GreenEyes_Idle_16
+  - first:
+      213: 1779005143395350267
+    second: GreenEyes_Idle_17
+  - first:
+      213: -8167014185294163584
+    second: GreenEyes_Idle_18
+  - first:
+      213: -3730071502939548580
+    second: GreenEyes_Idle_19
+  - first:
+      213: 7338237118316466073
+    second: GreenEyes_Idle_20
+  - first:
+      213: -441075331460086937
+    second: GreenEyes_Idle_21
+  - first:
+      213: -5578842527693873998
+    second: GreenEyes_Idle_22
+  - first:
+      213: 4291402260689151660
+    second: GreenEyes_Idle_23
+  - first:
+      213: 2593516653994102149
+    second: GreenEyes_Idle_24
+  - first:
+      213: 1637539847947891899
+    second: GreenEyes_Idle_25
+  - first:
+      213: 7460689383676161056
+    second: GreenEyes_Idle_26
+  - first:
+      213: -5166762498686131533
+    second: GreenEyes_Idle_27
+  - first:
+      213: -2655697473086059638
+    second: GreenEyes_Idle_28
+  - first:
+      213: 7882192327515964209
+    second: GreenEyes_Idle_29
+  - first:
+      213: -6057400640357321833
+    second: GreenEyes_Idle_30
+  - first:
+      213: -1754766872851895544
+    second: GreenEyes_Idle_31
+  - first:
+      213: 3526438998069460165
+    second: GreenEyes_Idle_32
+  - first:
+      213: -4736435921430692758
+    second: GreenEyes_Idle_33
+  - first:
+      213: 7263082691661616716
+    second: GreenEyes_Idle_34
+  - first:
+      213: -3500590388314116638
+    second: GreenEyes_Idle_35
+  - first:
+      213: -1555663470444271692
+    second: GreenEyes_Idle_36
+  - first:
+      213: -8073146241173042624
+    second: GreenEyes_Idle_37
+  - first:
+      213: 8954040176712731682
+    second: GreenEyes_Idle_38
+  - first:
+      213: -1393288978244734576
+    second: GreenEyes_Idle_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenEyes_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -26}
+        - {x: -12, y: -26}
+        - {x: -14, y: -13}
+        - {x: -5, y: -21}
+        - {x: -6, y: -13}
+        - {x: -4, y: -4}
+        - {x: -6, y: 7}
+        - {x: -3, y: 9}
+        - {x: 8, y: 9}
+        - {x: 9, y: -2}
+        - {x: 7, y: -5}
+        - {x: 10, y: -10}
+        - {x: 8, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5beb7b9631052a20800000000000000
+      internalID: 3036834857779719007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -26}
+        - {x: -12, y: -26}
+        - {x: -14, y: -13}
+        - {x: -5, y: -21}
+        - {x: -6, y: -13}
+        - {x: -4, y: -4}
+        - {x: -6, y: 7}
+        - {x: -3, y: 9}
+        - {x: 8, y: 9}
+        - {x: 9, y: -2}
+        - {x: 7, y: -5}
+        - {x: 10, y: -10}
+        - {x: 8, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831180af132f5890800000000000000
+      internalID: -7467211038413220989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3568
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -25}
+        - {x: -11, y: -25}
+        - {x: -13, y: -12}
+        - {x: -4, y: -20}
+        - {x: -5, y: -12}
+        - {x: -3, y: -3}
+        - {x: -5, y: 8}
+        - {x: -2, y: 10}
+        - {x: 8, y: 10}
+        - {x: 11, y: 5}
+        - {x: 10, y: -1}
+        - {x: 8, y: -4}
+        - {x: 11, y: -9}
+        - {x: 9, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd38f0f71aa74d0800000000000000
+      internalID: -3136016623416909857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -24}
+        - {x: -11, y: -24}
+        - {x: -13, y: -11}
+        - {x: -4, y: -19}
+        - {x: -5, y: -11}
+        - {x: -3, y: -2}
+        - {x: -5, y: 9}
+        - {x: -2, y: 11}
+        - {x: 9, y: 11}
+        - {x: 10, y: 0}
+        - {x: 8, y: -3}
+        - {x: 11, y: -8}
+        - {x: 9, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b8c28f6286a1120800000000000000
+      internalID: 2385333469227813782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -24}
+        - {x: -10, y: -24}
+        - {x: -12, y: -11}
+        - {x: -3, y: -19}
+        - {x: -4, y: -11}
+        - {x: -2, y: -2}
+        - {x: -4, y: 9}
+        - {x: -1, y: 11}
+        - {x: 10, y: 11}
+        - {x: 11, y: 0}
+        - {x: 9, y: -3}
+        - {x: 12, y: -8}
+        - {x: 10, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51943a5a853d561b0800000000000000
+      internalID: -5663888578659006187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -23}
+        - {x: -10, y: -23}
+        - {x: -12, y: -10}
+        - {x: -3, y: -18}
+        - {x: -4, y: -10}
+        - {x: -2, y: -1}
+        - {x: -4, y: 10}
+        - {x: -1, y: 12}
+        - {x: 10, y: 12}
+        - {x: 11, y: 1}
+        - {x: 9, y: -2}
+        - {x: 12, y: -7}
+        - {x: 10, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1964b733708609cb0800000000000000
+      internalID: -4859269617794988399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -23}
+        - {x: -9, y: -23}
+        - {x: -11, y: -10}
+        - {x: -2, y: -18}
+        - {x: -3, y: -10}
+        - {x: -1, y: -1}
+        - {x: -3, y: 10}
+        - {x: 0, y: 12}
+        - {x: 11, y: 12}
+        - {x: 12, y: 1}
+        - {x: 10, y: -2}
+        - {x: 13, y: -7}
+        - {x: 11, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b840ed00bec7f30e0800000000000000
+      internalID: -2287972736907213685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -24}
+        - {x: -9, y: -24}
+        - {x: -11, y: -11}
+        - {x: -2, y: -19}
+        - {x: -3, y: -11}
+        - {x: -1, y: -2}
+        - {x: -3, y: 9}
+        - {x: 0, y: 11}
+        - {x: 11, y: 11}
+        - {x: 12, y: 0}
+        - {x: 10, y: -3}
+        - {x: 13, y: -8}
+        - {x: 11, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b487ba254ad1190800000000000000
+      internalID: -7990049488914330826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -25}
+        - {x: -9, y: -25}
+        - {x: -11, y: -12}
+        - {x: -2, y: -20}
+        - {x: -3, y: -12}
+        - {x: -1, y: -3}
+        - {x: -3, y: 8}
+        - {x: 0, y: 10}
+        - {x: 11, y: 10}
+        - {x: 12, y: -1}
+        - {x: 10, y: -4}
+        - {x: 13, y: -9}
+        - {x: 11, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4285a7ea97f5700800000000000000
+      internalID: 531277071336875176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -26}
+        - {x: -9, y: -26}
+        - {x: -11, y: -13}
+        - {x: -2, y: -21}
+        - {x: -3, y: -13}
+        - {x: -1, y: -4}
+        - {x: -3, y: 7}
+        - {x: 0, y: 9}
+        - {x: 11, y: 9}
+        - {x: 12, y: -2}
+        - {x: 10, y: -5}
+        - {x: 13, y: -10}
+        - {x: 11, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223647ad57c46320800000000000000
+      internalID: 2550382494050824738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -27}
+        - {x: -9, y: -27}
+        - {x: -11, y: -14}
+        - {x: -2, y: -22}
+        - {x: -3, y: -14}
+        - {x: -1, y: -5}
+        - {x: -3, y: 6}
+        - {x: 0, y: 8}
+        - {x: 11, y: 8}
+        - {x: 12, y: -3}
+        - {x: 10, y: -6}
+        - {x: 13, y: -11}
+        - {x: 11, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a94f816646a160800000000000000
+      internalID: 7036388852642719283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -28}
+        - {x: -9, y: -28}
+        - {x: -11, y: -15}
+        - {x: -2, y: -23}
+        - {x: -3, y: -15}
+        - {x: -1, y: -6}
+        - {x: -3, y: 5}
+        - {x: 0, y: 7}
+        - {x: 11, y: 7}
+        - {x: 12, y: -4}
+        - {x: 10, y: -7}
+        - {x: 13, y: -12}
+        - {x: 11, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458ece8c61a105b0800000000000000
+      internalID: -5403860590243445430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -29}
+        - {x: -9, y: -29}
+        - {x: -11, y: -16}
+        - {x: -2, y: -24}
+        - {x: -3, y: -16}
+        - {x: -1, y: -7}
+        - {x: -3, y: 4}
+        - {x: 0, y: 6}
+        - {x: 11, y: 6}
+        - {x: 12, y: -5}
+        - {x: 10, y: -8}
+        - {x: 13, y: -13}
+        - {x: 11, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd45651822924540800000000000000
+      internalID: 4990712037935238642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -31}
+        - {x: -9, y: -31}
+        - {x: -11, y: -18}
+        - {x: -2, y: -26}
+        - {x: -3, y: -18}
+        - {x: -1, y: -9}
+        - {x: -3, y: 2}
+        - {x: 0, y: 4}
+        - {x: 11, y: 4}
+        - {x: 12, y: -7}
+        - {x: 10, y: -10}
+        - {x: 13, y: -15}
+        - {x: 11, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71cac4168db5dd70800000000000000
+      internalID: 9067361808352461179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -30}
+        - {x: -10, y: -30}
+        - {x: -12, y: -17}
+        - {x: -3, y: -25}
+        - {x: -4, y: -17}
+        - {x: -2, y: -8}
+        - {x: -4, y: 3}
+        - {x: -1, y: 5}
+        - {x: 10, y: 5}
+        - {x: 11, y: -6}
+        - {x: 9, y: -9}
+        - {x: 12, y: -14}
+        - {x: 10, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0df8a17a677e5d0800000000000000
+      internalID: -3033325363933491018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -29}
+        - {x: -10, y: -29}
+        - {x: -12, y: -16}
+        - {x: -3, y: -24}
+        - {x: -4, y: -16}
+        - {x: -2, y: -7}
+        - {x: -4, y: 4}
+        - {x: -1, y: 6}
+        - {x: 10, y: 6}
+        - {x: 11, y: -5}
+        - {x: 9, y: -8}
+        - {x: 12, y: -13}
+        - {x: 10, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91ab43fc1fca8e60800000000000000
+      internalID: 7965406614205997467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -28}
+        - {x: -10, y: -28}
+        - {x: -12, y: -15}
+        - {x: -3, y: -23}
+        - {x: -4, y: -15}
+        - {x: -2, y: -6}
+        - {x: -4, y: 5}
+        - {x: -1, y: 7}
+        - {x: 10, y: 7}
+        - {x: 11, y: -4}
+        - {x: 9, y: -7}
+        - {x: 12, y: -12}
+        - {x: 10, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261593e3787fff0c0800000000000000
+      internalID: -4539637739129581214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -27}
+        - {x: -10, y: -27}
+        - {x: -12, y: -14}
+        - {x: -3, y: -22}
+        - {x: -4, y: -14}
+        - {x: -2, y: -5}
+        - {x: -4, y: 6}
+        - {x: -1, y: 8}
+        - {x: 10, y: 8}
+        - {x: 11, y: -3}
+        - {x: 9, y: -6}
+        - {x: 12, y: -11}
+        - {x: 10, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63ca990cb40b810800000000000000
+      internalID: 1779005143395350267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -27}
+        - {x: -11, y: -27}
+        - {x: -13, y: -14}
+        - {x: -4, y: -22}
+        - {x: -5, y: -14}
+        - {x: -3, y: -5}
+        - {x: -5, y: 6}
+        - {x: -2, y: 8}
+        - {x: 9, y: 8}
+        - {x: 10, y: -3}
+        - {x: 8, y: -6}
+        - {x: 11, y: -11}
+        - {x: 9, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08117f18edfe8ae80800000000000000
+      internalID: -8167014185294163584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -26}
+        - {x: -11, y: -26}
+        - {x: -13, y: -13}
+        - {x: -4, y: -21}
+        - {x: -5, y: -13}
+        - {x: -3, y: -4}
+        - {x: -5, y: 7}
+        - {x: -2, y: 9}
+        - {x: 9, y: 9}
+        - {x: 10, y: -2}
+        - {x: 8, y: -5}
+        - {x: 11, y: -10}
+        - {x: 9, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c541b781bbf1c3cc0800000000000000
+      internalID: -3730071502939548580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -26}
+        - {x: -12, y: -26}
+        - {x: -14, y: -13}
+        - {x: -5, y: -21}
+        - {x: -6, y: -13}
+        - {x: -4, y: -4}
+        - {x: -6, y: 7}
+        - {x: -3, y: 9}
+        - {x: 8, y: 9}
+        - {x: 9, y: -2}
+        - {x: 7, y: -5}
+        - {x: 10, y: -10}
+        - {x: 8, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fc6da87c7a6d560800000000000000
+      internalID: 7338237118316466073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -26}
+        - {x: -12, y: -26}
+        - {x: -14, y: -13}
+        - {x: -5, y: -21}
+        - {x: -6, y: -13}
+        - {x: -4, y: -4}
+        - {x: -6, y: 7}
+        - {x: -3, y: 9}
+        - {x: 8, y: 9}
+        - {x: 9, y: -2}
+        - {x: 7, y: -5}
+        - {x: 10, y: -10}
+        - {x: 8, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763422da25cf0e9f0800000000000000
+      internalID: -441075331460086937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -25}
+        - {x: -13, y: -25}
+        - {x: -15, y: -12}
+        - {x: -6, y: -20}
+        - {x: -7, y: -12}
+        - {x: -5, y: -3}
+        - {x: -7, y: 8}
+        - {x: -4, y: 10}
+        - {x: 7, y: 10}
+        - {x: 8, y: -1}
+        - {x: 6, y: -4}
+        - {x: 9, y: -9}
+        - {x: 7, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd6fe6748f392b0800000000000000
+      internalID: -5578842527693873998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -24}
+        - {x: -13, y: -24}
+        - {x: -15, y: -11}
+        - {x: -6, y: -19}
+        - {x: -7, y: -11}
+        - {x: -5, y: -2}
+        - {x: -7, y: 9}
+        - {x: -4, y: 11}
+        - {x: 7, y: 11}
+        - {x: 8, y: 0}
+        - {x: 6, y: -3}
+        - {x: 9, y: -8}
+        - {x: 7, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca66fa88e9f1e8b30800000000000000
+      internalID: 4291402260689151660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -24}
+        - {x: -14, y: -24}
+        - {x: -16, y: -11}
+        - {x: -7, y: -19}
+        - {x: -8, y: -11}
+        - {x: -6, y: -2}
+        - {x: -8, y: 9}
+        - {x: -5, y: 11}
+        - {x: 6, y: 11}
+        - {x: 7, y: 0}
+        - {x: 5, y: -3}
+        - {x: 8, y: -8}
+        - {x: 6, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc060e7a50ef320800000000000000
+      internalID: 2593516653994102149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -23}
+        - {x: -14, y: -23}
+        - {x: -16, y: -10}
+        - {x: -7, y: -18}
+        - {x: -8, y: -10}
+        - {x: -6, y: -1}
+        - {x: -8, y: 10}
+        - {x: -5, y: 12}
+        - {x: 6, y: 12}
+        - {x: 7, y: 1}
+        - {x: 5, y: -2}
+        - {x: 8, y: -7}
+        - {x: 6, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb43b7ec0d5b9b610800000000000000
+      internalID: 1637539847947891899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -23}
+        - {x: -15, y: -23}
+        - {x: -17, y: -10}
+        - {x: -8, y: -18}
+        - {x: -9, y: -10}
+        - {x: -7, y: -1}
+        - {x: -9, y: 10}
+        - {x: -6, y: 12}
+        - {x: 5, y: 12}
+        - {x: 6, y: 1}
+        - {x: 4, y: -2}
+        - {x: 7, y: -7}
+        - {x: 5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cab8d4771b98760800000000000000
+      internalID: 7460689383676161056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -24}
+        - {x: -15, y: -24}
+        - {x: -17, y: -11}
+        - {x: -8, y: -19}
+        - {x: -9, y: -11}
+        - {x: -7, y: -2}
+        - {x: -9, y: 9}
+        - {x: -6, y: 11}
+        - {x: 5, y: 11}
+        - {x: 6, y: 0}
+        - {x: 4, y: -3}
+        - {x: 7, y: -8}
+        - {x: 5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e003d1e8fb48b0800000000000000
+      internalID: -5166762498686131533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -25}
+        - {x: -15, y: -25}
+        - {x: -17, y: -12}
+        - {x: -8, y: -20}
+        - {x: -9, y: -12}
+        - {x: -7, y: -3}
+        - {x: -9, y: 8}
+        - {x: -6, y: 10}
+        - {x: 5, y: 10}
+        - {x: 6, y: -1}
+        - {x: 4, y: -4}
+        - {x: 7, y: -9}
+        - {x: 5, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8dcdf731152bd0800000000000000
+      internalID: -2655697473086059638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -26}
+        - {x: -15, y: -26}
+        - {x: -17, y: -13}
+        - {x: -8, y: -21}
+        - {x: -9, y: -13}
+        - {x: -7, y: -4}
+        - {x: -9, y: 7}
+        - {x: -6, y: 9}
+        - {x: 5, y: 9}
+        - {x: 6, y: -2}
+        - {x: 4, y: -5}
+        - {x: 7, y: -10}
+        - {x: 5, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13306e4092c236d60800000000000000
+      internalID: 7882192327515964209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -27}
+        - {x: -15, y: -27}
+        - {x: -17, y: -14}
+        - {x: -8, y: -22}
+        - {x: -9, y: -14}
+        - {x: -7, y: -5}
+        - {x: -9, y: 6}
+        - {x: -6, y: 8}
+        - {x: 5, y: 8}
+        - {x: 6, y: -3}
+        - {x: 4, y: -6}
+        - {x: 7, y: -11}
+        - {x: 5, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933749063acfeba0800000000000000
+      internalID: -6057400640357321833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -28}
+        - {x: -15, y: -28}
+        - {x: -17, y: -15}
+        - {x: -8, y: -23}
+        - {x: -9, y: -15}
+        - {x: -7, y: -6}
+        - {x: -9, y: 5}
+        - {x: -6, y: 7}
+        - {x: 5, y: 7}
+        - {x: 6, y: -4}
+        - {x: 4, y: -7}
+        - {x: 7, y: -12}
+        - {x: 5, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2a0883d0d5a7e0800000000000000
+      internalID: -1754766872851895544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -29}
+        - {x: -15, y: -29}
+        - {x: -17, y: -16}
+        - {x: -8, y: -24}
+        - {x: -9, y: -16}
+        - {x: -7, y: -7}
+        - {x: -9, y: 4}
+        - {x: -6, y: 6}
+        - {x: 5, y: 6}
+        - {x: 6, y: -5}
+        - {x: 4, y: -8}
+        - {x: 7, y: -13}
+        - {x: 5, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb30ab59d60f030800000000000000
+      internalID: 3526438998069460165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -30}
+        - {x: -15, y: -30}
+        - {x: -17, y: -17}
+        - {x: -8, y: -25}
+        - {x: -9, y: -17}
+        - {x: -7, y: -8}
+        - {x: -9, y: 3}
+        - {x: -6, y: 5}
+        - {x: 5, y: 5}
+        - {x: 6, y: -6}
+        - {x: 4, y: -9}
+        - {x: 7, y: -14}
+        - {x: 5, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c39b9cf9cc44eb0800000000000000
+      internalID: -4736435921430692758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -30}
+        - {x: -14, y: -30}
+        - {x: -16, y: -17}
+        - {x: -7, y: -25}
+        - {x: -8, y: -17}
+        - {x: -6, y: -8}
+        - {x: -8, y: 3}
+        - {x: -5, y: 5}
+        - {x: 6, y: 5}
+        - {x: 7, y: -6}
+        - {x: 5, y: -9}
+        - {x: 8, y: -14}
+        - {x: 6, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4657c20a37abc460800000000000000
+      internalID: 7263082691661616716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -29}
+        - {x: -14, y: -29}
+        - {x: -16, y: -16}
+        - {x: -7, y: -24}
+        - {x: -8, y: -16}
+        - {x: -6, y: -7}
+        - {x: -8, y: 4}
+        - {x: -5, y: 6}
+        - {x: 6, y: 6}
+        - {x: 7, y: -5}
+        - {x: 5, y: -8}
+        - {x: 8, y: -13}
+        - {x: 6, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ede368b6976b6fc0800000000000000
+      internalID: -3500590388314116638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -28}
+        - {x: -14, y: -28}
+        - {x: -16, y: -15}
+        - {x: -7, y: -23}
+        - {x: -8, y: -15}
+        - {x: -6, y: -6}
+        - {x: -8, y: 5}
+        - {x: -5, y: 7}
+        - {x: 6, y: 7}
+        - {x: 7, y: -4}
+        - {x: 5, y: -7}
+        - {x: 8, y: -12}
+        - {x: 6, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72e1ed05c296ae0800000000000000
+      internalID: -1555663470444271692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -27}
+        - {x: -14, y: -27}
+        - {x: -16, y: -14}
+        - {x: -7, y: -22}
+        - {x: -8, y: -14}
+        - {x: -6, y: -5}
+        - {x: -8, y: 6}
+        - {x: -5, y: 8}
+        - {x: 6, y: 8}
+        - {x: 7, y: -3}
+        - {x: 5, y: -6}
+        - {x: 8, y: -11}
+        - {x: 6, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ac91b544c66ff80800000000000000
+      internalID: -8073146241173042624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -27}
+        - {x: -13, y: -27}
+        - {x: -15, y: -14}
+        - {x: -6, y: -22}
+        - {x: -7, y: -14}
+        - {x: -5, y: -5}
+        - {x: -7, y: 6}
+        - {x: -4, y: 8}
+        - {x: 7, y: 8}
+        - {x: 8, y: -3}
+        - {x: 6, y: -6}
+        - {x: 9, y: -11}
+        - {x: 7, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cc985a914234c70800000000000000
+      internalID: 8954040176712731682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenEyes_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -26}
+        - {x: -13, y: -26}
+        - {x: -15, y: -13}
+        - {x: -6, y: -21}
+        - {x: -7, y: -13}
+        - {x: -5, y: -4}
+        - {x: -7, y: 7}
+        - {x: -4, y: 9}
+        - {x: 7, y: 9}
+        - {x: 8, y: -2}
+        - {x: 6, y: -5}
+        - {x: 9, y: -10}
+        - {x: 7, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09171466e0b0aace0800000000000000
+      internalID: -1393288978244734576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

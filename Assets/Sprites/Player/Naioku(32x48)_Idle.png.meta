@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 219582ccf2d064549ab99d049f1b956e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5329795941904680138
+    second: Naioku(32x48)_Idle_0
+  - first:
+      213: 8092147471098514576
+    second: Naioku(32x48)_Idle_1
+  - first:
+      213: 7461099885410906747
+    second: Naioku(32x48)_Idle_2
+  - first:
+      213: -4888812033098994537
+    second: Naioku(32x48)_Idle_3
+  - first:
+      213: 8646353600264816336
+    second: Naioku(32x48)_Idle_4
+  - first:
+      213: -8990198132251798960
+    second: Naioku(32x48)_Idle_5
+  - first:
+      213: 2004856556350264697
+    second: Naioku(32x48)_Idle_6
+  - first:
+      213: -2465525723917032915
+    second: Naioku(32x48)_Idle_7
+  - first:
+      213: 1506067825173845557
+    second: Naioku(32x48)_Idle_8
+  - first:
+      213: 1947830520966355190
+    second: Naioku(32x48)_Idle_9
+  - first:
+      213: -6370306571412743170
+    second: Naioku(32x48)_Idle_10
+  - first:
+      213: 8819332503918414664
+    second: Naioku(32x48)_Idle_11
+  - first:
+      213: 6161066780681286360
+    second: Naioku(32x48)_Idle_12
+  - first:
+      213: -7244952589990713063
+    second: Naioku(32x48)_Idle_13
+  - first:
+      213: 6993228588679442712
+    second: Naioku(32x48)_Idle_14
+  - first:
+      213: -1073246520211432096
+    second: Naioku(32x48)_Idle_15
+  - first:
+      213: 4444197812589216012
+    second: Naioku(32x48)_Idle_16
+  - first:
+      213: -802470478242643107
+    second: Naioku(32x48)_Idle_17
+  - first:
+      213: -8909290602992615704
+    second: Naioku(32x48)_Idle_18
+  - first:
+      213: -9093358020525248798
+    second: Naioku(32x48)_Idle_19
+  - first:
+      213: -1806220783610627751
+    second: Naioku(32x48)_Idle_20
+  - first:
+      213: 927457775213767258
+    second: Naioku(32x48)_Idle_21
+  - first:
+      213: 1397049268763508738
+    second: Naioku(32x48)_Idle_22
+  - first:
+      213: -4080498885733644442
+    second: Naioku(32x48)_Idle_23
+  - first:
+      213: 1850794301757479712
+    second: Naioku(32x48)_Idle_24
+  - first:
+      213: 1904814867509590334
+    second: Naioku(32x48)_Idle_25
+  - first:
+      213: -1167482406905029544
+    second: Naioku(32x48)_Idle_26
+  - first:
+      213: -4165670915743848881
+    second: Naioku(32x48)_Idle_27
+  - first:
+      213: 6818633823555543204
+    second: Naioku(32x48)_Idle_28
+  - first:
+      213: -1410307036559062487
+    second: Naioku(32x48)_Idle_29
+  - first:
+      213: -1281193635800567099
+    second: Naioku(32x48)_Idle_30
+  - first:
+      213: -925519005516086960
+    second: Naioku(32x48)_Idle_31
+  - first:
+      213: 7834399407913633882
+    second: Naioku(32x48)_Idle_32
+  - first:
+      213: -9026243317537535597
+    second: Naioku(32x48)_Idle_33
+  - first:
+      213: 2455861236197963441
+    second: Naioku(32x48)_Idle_34
+  - first:
+      213: -4468000062567764973
+    second: Naioku(32x48)_Idle_35
+  - first:
+      213: 6221098849079526239
+    second: Naioku(32x48)_Idle_36
+  - first:
+      213: 8504201737950381175
+    second: Naioku(32x48)_Idle_37
+  - first:
+      213: 8999199622241562988
+    second: Naioku(32x48)_Idle_38
+  - first:
+      213: 4015191547731663891
+    second: Naioku(32x48)_Idle_39
+  - first:
+      213: 7466170466544653579
+    second: Naioku(32x48)_Idle_40
+  - first:
+      213: 6889937720750879988
+    second: Naioku(32x48)_Idle_41
+  - first:
+      213: -560062195271958793
+    second: Naioku(32x48)_Idle_42
+  - first:
+      213: -8997679984884140253
+    second: Naioku(32x48)_Idle_43
+  - first:
+      213: -8691732550927918885
+    second: Naioku(32x48)_Idle_44
+  - first:
+      213: -7293514607627900946
+    second: Naioku(32x48)_Idle_45
+  - first:
+      213: 467929997152339879
+    second: Naioku(32x48)_Idle_46
+  - first:
+      213: -3001458507629320911
+    second: Naioku(32x48)_Idle_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5280
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bf37d44d2c806b0800000000000000
+      internalID: -5329795941904680138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5168
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c07ec30451d4070800000000000000
+      internalID: 8092147471098514576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5056
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72ff9fa0d62b8760800000000000000
+      internalID: 7461099885410906747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4944
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79caa71ab53772cb0800000000000000
+      internalID: -4888812033098994537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4832
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d644320ac40ef770800000000000000
+      internalID: 8646353600264816336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4720
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05250ca4e666c3380800000000000000
+      internalID: -8990198132251798960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4608
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975ded27a6ea2db10800000000000000
+      internalID: 2004856556350264697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4496
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d226651ca61b8cdd0800000000000000
+      internalID: -2465525723917032915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4384
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536d12f15b0a6e410800000000000000
+      internalID: 1506067825173845557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4272
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f81ddce985180b10800000000000000
+      internalID: 1947830520966355190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4160
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb5b94bcef1897a0800000000000000
+      internalID: -6370306571412743170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4048
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0d1c7f20946a70800000000000000
+      internalID: 8819332503918414664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3936
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2b7f32891808550800000000000000
+      internalID: 6161066780681286360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3824
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ae0b3102c47b90800000000000000
+      internalID: -7244952589990713063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3712
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81138558950fc0160800000000000000
+      internalID: 6993228588679442712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3600
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9f56e9ff0b11f0800000000000000
+      internalID: -1073246520211432096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3488
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01c2fa3d56fcad30800000000000000
+      internalID: 4444197812589216012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3376
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d530c990a5d0dd4f0800000000000000
+      internalID: -802470478242643107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3264
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee36e76667db5480800000000000000
+      internalID: -8909290602992615704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3152
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eea42b1f07edc180800000000000000
+      internalID: -9093358020525248798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3040
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f5fe54c30fe6e0800000000000000
+      internalID: -1806220783610627751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2928
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6ac3ceedfedc00800000000000000
+      internalID: 927457775213767258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2816
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004e5678e0536310800000000000000
+      internalID: 1397049268763508738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2704
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667087102e72f57c0800000000000000
+      internalID: -4080498885733644442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2592
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b529c8c975fa910800000000000000
+      internalID: 1850794301757479712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2480
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39bac4a7034f6a10800000000000000
+      internalID: 1904814867509590334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2368
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c58eebfe44ccfe0800000000000000
+      internalID: -1167482406905029544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2256
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4669ef6f509036c0800000000000000
+      internalID: -4165670915743848881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2144
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0ed7af557a0ae50800000000000000
+      internalID: 6818633823555543204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2032
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac9ade8359d6ce0800000000000000
+      internalID: -1410307036559062487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1920
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2bd912d29483ee0800000000000000
+      internalID: -1281193635800567099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1808
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051475b3e55e723f0800000000000000
+      internalID: -925519005516086960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1696
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580939c0c069bc60800000000000000
+      internalID: 7834399407913633882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1584
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3998ee996875cb280800000000000000
+      internalID: -9026243317537535597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1472
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b63b3958c8f41220800000000000000
+      internalID: 2455861236197963441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1360
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ca9369d997ef1c0800000000000000
+      internalID: -4468000062567764973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1248
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f530af34178c55650800000000000000
+      internalID: 6221098849079526239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1136
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774cac86c6ef40670800000000000000
+      internalID: 8504201737950381175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b98a606493ec70800000000000000
+      internalID: 8999199622241562988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 912
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c52b37073d8b730800000000000000
+      internalID: 4015191547731663891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 800
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0518ea5b7a2d9760800000000000000
+      internalID: 7466170466544653579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4bbe14ad9fd9f50800000000000000
+      internalID: 6889937720750879988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe70b696624a38f0800000000000000
+      internalID: -560062195271958793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b65ab9b1d12380800000000000000
+      internalID: -8997679984884140253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8dd33bb43c06780800000000000000
+      internalID: -8691732550927918885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee767386b1b38ca90800000000000000
+      internalID: -7293514607627900946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c30c6adb6e7600800000000000000
+      internalID: 467929997152339879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naioku(32x48)_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1352ea4c36da856d0800000000000000
+      internalID: -3001458507629320911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
