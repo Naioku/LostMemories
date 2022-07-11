@@ -165,11 +165,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48650e0f1de647a49b277af915081630, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackSpeed: 5
-  movementSpeed: 3
-  maxChasingRange: 10
+  attackSpeed: 2
+  movementSpeed: 2
+  maxChasingRange: 5
   secondsOfWaitBeforeRemovingFromScene: 1
-  attackDamage: 0.1
+  attackDamage: 0.05
   enabledPathfinding: 0
   bindWithScrolls: 0
   scrollsToBind: []

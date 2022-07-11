@@ -31,6 +31,7 @@ public class PlayerController : MonoBehaviour
     private bool _memoryViewState;
     private PlayerStatsController _playerStatsController;
     private QuickMenuCanvasController _quickMenuCanvasController;
+    private HelperCanvasController _helperCanvasController;
     private GameSession _gameSession;
     private AudioPlayer _audioPlayer;
 
@@ -53,6 +54,7 @@ public class PlayerController : MonoBehaviour
         _playerStatsController = GetComponent<PlayerStatsController>();
         _gameSession = FindObjectOfType<GameSession>();
         _quickMenuCanvasController = FindObjectOfType<QuickMenuCanvasController>();
+        _helperCanvasController = FindObjectOfType<HelperCanvasController>();
         _audioPlayer = FindObjectOfType<AudioPlayer>();
     }
 
@@ -69,6 +71,8 @@ public class PlayerController : MonoBehaviour
         }
         _originalGravityScale = _rigidbody2D.gravityScale;
         _originalAnimatorSpeed = _animator.speed;
+        
+        _gameSession.SetPlayerOnLastCheckpoint();
     }
 
     private void Update()
@@ -97,6 +101,7 @@ public class PlayerController : MonoBehaviour
         _isDead = true;
         _animator.SetTrigger(IsDying);
         FreezePlayer();
+        _playerStatsController.enabled = false;
         Debug.Log("You are dead xd");
     }
 
@@ -260,7 +265,7 @@ public class PlayerController : MonoBehaviour
         
         Single input = value.Get<Single>();
 
-        if (input.Equals(1) && _playerStatsController.IsSprintPossible())
+        if (input.Equals(1) && IsSprintPossible())
         {
             _isInSprintState = true;
             _playerStatsController.SprintStateOn();
@@ -272,6 +277,11 @@ public class PlayerController : MonoBehaviour
             _playerStatsController.SprintStateOff();
             _audioPlayer.DisableSprint();
         }
+    }
+
+    private bool IsSprintPossible()
+    {
+        return _playerStatsController.IsSprintPossible() && !IsInClimbingState();
     }
 
     private void OnLowJump()
@@ -369,6 +379,18 @@ public class PlayerController : MonoBehaviour
         else
         {
             _quickMenuCanvasController.Show();
+        }
+    }
+    
+    private void OnToggleHelper()
+    {
+        if (_helperCanvasController.IsShown())
+        {
+            _helperCanvasController.Hide();
+        }
+        else
+        {
+            _helperCanvasController.Show();
         }
     }
     

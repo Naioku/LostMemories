@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class CameraShake : MonoBehaviour
 {
@@ -7,10 +8,19 @@ public class CameraShake : MonoBehaviour
     [SerializeField] private float _shakeMagnitude;
 
     private Vector3 _initialPosition;
+    private bool _isInPlayingState;
+
+    private void Update()
+    {
+        if (_isInPlayingState)
+        {
+            _initialPosition = transform.position;
+        }
+    }
 
     public void Play()
     {
-        _initialPosition = transform.position;
+        _isInPlayingState = true;
         StartCoroutine(Shake());
     }
 
@@ -23,5 +33,7 @@ public class CameraShake : MonoBehaviour
             elapsedTime += Time.deltaTime;
             yield return new WaitForEndOfFrame();
         }
+
+        _isInPlayingState = false;
     }
 }

@@ -1,7 +1,6 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class QuickMenuCanvasController : MonoBehaviour
+public class HelperCanvasController : MonoBehaviour
 {
     private Canvas _canvasComponent;
 
@@ -9,34 +8,7 @@ public class QuickMenuCanvasController : MonoBehaviour
     {
         _canvasComponent = GetComponent<Canvas>();
     }
-
-    public void OnResume()
-    {
-        _canvasComponent.enabled = false;
-        Hide();
-    }
-
-    public void OnDropLife()
-    {
-        _canvasComponent.enabled = false;
-        FindObjectOfType<PlayerController>().Die();
-        Hide();
-    }
-
-    public void OnPlayAgain()
-    {
-        Destroy(FindObjectOfType<GameSession>().gameObject);
-        SceneManager.LoadScene("Level");
-        Hide();
-    }
-
-    public void OnTitleScreen()
-    {
-        Destroy(FindObjectOfType<GameSession>().gameObject);
-        SceneManager.LoadScene("TitleScreen");
-        Hide();
-    }
-
+    
     public bool IsShown()
     {
         return _canvasComponent.enabled;
@@ -46,7 +18,6 @@ public class QuickMenuCanvasController : MonoBehaviour
     {
         _canvasComponent.enabled = false;
         Time.timeScale = 1f;
-        
         GameObject player = GameObject.FindWithTag("Player");
         player.GetComponent<PlayerController>().enabled = true;
     }

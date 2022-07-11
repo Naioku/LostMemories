@@ -169,7 +169,7 @@ MonoBehaviour:
   movementSpeed: 3
   maxChasingRange: 10
   secondsOfWaitBeforeRemovingFromScene: 1
-  attackDamage: 0.3
+  attackDamage: 0.15
   enabledPathfinding: 0
   bindWithScrolls: 0
   scrollsToBind: []
