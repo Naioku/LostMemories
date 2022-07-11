@@ -278,8 +278,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1407}
-  m_SizeDelta: {x: 650, y: 164.7}
+  m_AnchoredPosition: {x: 0, y: -1414}
+  m_SizeDelta: {x: 650, y: 440}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &27432073
 MonoBehaviour:
@@ -301,14 +301,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Also I can''t forgot about everyone, who supports me. About my praents
+  m_text: "Also I can't forgot about everyone, who supports me. About my praents
     - finacial supporters, my little sister - my first alpha tester and design helper,
     my friends who help me not to go mad in the sea of many errors and bugs... And
-    I can''t forgot about my great beta testers:
-
-    [Names]
-
-    Thank You!'
+    I can't forgot about my great beta testers:\n\nSebastian Chr\xF3\u015Bcik\nAleksandra
+    Tomczyk\nKlaudia Komuda\nJakub Podw\xF3jci\nAnna Gapi\u0144ska\nMateusz Zab\u0142ocki\nMagdalena
+    Borkowska\nHubert \u017Bbikowski\nWeronika Koz\u0142owska\n\nThank You!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d17da2321b6182746996dcaaf4b75d5e, type: 2}
   m_sharedMaterial: {fileID: 4779940262909717692, guid: d17da2321b6182746996dcaaf4b75d5e, type: 2}
@@ -1925,9 +1923,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "It all is my work, but I wasn't be able to do anything, if hadn't met
-    the Przy\u0142yProgramista (FutureProgrammer) team. These people helped me learn
-    a lot of programming skills. I want to say that all that work saw the light of
-    a day thanks to them in large part. Thank You!\nhttps://przyszlyprogramista.pl/"
+    the Przysz\u0142yProgramista (FutureProgrammer) team. These people helped me
+    learn a lot of programming skills. I want to say that all that work saw the light
+    of a day thanks to them in large part. Thank You!\nhttps://przyszlyprogramista.pl/"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d17da2321b6182746996dcaaf4b75d5e, type: 2}
   m_sharedMaterial: {fileID: 4779940262909717692, guid: d17da2321b6182746996dcaaf4b75d5e, type: 2}

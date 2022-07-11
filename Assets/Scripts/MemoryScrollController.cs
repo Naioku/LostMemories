@@ -17,10 +17,15 @@ public class MemoryScrollController : MonoBehaviour
     {
         if (col.tag.Equals("Player"))
         {
-            _audioPlayer.PlayTakeScrollClip(transform.position);
-            contentContainer.SetActive(true);
-            _memoryViewController.RefreshScore();
-            Destroy(gameObject);
+            GetScrollToPlayer();
         }
+    }
+
+    public void GetScrollToPlayer()
+    {
+        _audioPlayer.PlayTakeScrollClip(transform.position);
+        contentContainer.SetActive(true);
+        _memoryViewController.RefreshScore();
+        Destroy(gameObject);
     }
 }

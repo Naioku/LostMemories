@@ -12,14 +12,11 @@ public class GameSession : MonoBehaviour
     private static GameSession _instance;
     private UpperMessagesCanvasController _upperMessagesCanvasController;
 
+    public Transform CurrentCheckpoint { get; set; } = null;
+
     private void Awake()
     {
         ManageSingleton();
-    }
-
-    public static GameSession GetInstance()
-    {
-        return _instance;
     }
 
     private void Start()
@@ -39,6 +36,14 @@ public class GameSession : MonoBehaviour
             RefreshLives();
             StartCoroutine(RestartLevel());
         }
+    }
+
+    public void SetPlayerOnLastCheckpoint()
+    {
+        if (CurrentCheckpoint == null) return;
+        
+        GameObject player = GameObject.FindWithTag("Player");
+        player.transform.position = CurrentCheckpoint.position;
     }
 
     private void ManageSingleton()

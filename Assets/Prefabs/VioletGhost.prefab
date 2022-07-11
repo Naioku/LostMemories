@@ -167,9 +167,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackSpeed: 5
   movementSpeed: 3
-  maxChasingRange: 10
+  maxChasingRange: 9
   secondsOfWaitBeforeRemovingFromScene: 1
-  attackDamage: 0.2
+  attackDamage: 0.1
   enabledPathfinding: 0
   bindWithScrolls: 0
   scrollsToBind: []

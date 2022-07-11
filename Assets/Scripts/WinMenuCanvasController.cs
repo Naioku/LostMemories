@@ -28,10 +28,15 @@ public class WinMenuCanvasController : MonoBehaviour
     {
         _canvasComponent.enabled = false;
         Time.timeScale = 1f;
+        
+        GameObject player = GameObject.FindWithTag("Player");
+        player.GetComponent<PlayerController>().enabled = true;
     }
 
     public void Show()
     {
+        GameObject player = GameObject.FindWithTag("Player");
+        player.GetComponent<PlayerController>().enabled = false;
         Time.timeScale = 0f;
         _canvasComponent.enabled = true;
     }
