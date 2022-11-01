@@ -107121,6 +107121,10 @@ PrefabInstance:
       propertyPath: baseCoordinates
       value: 
       objectReference: {fileID: 1397818582}
+    - target: {fileID: 4622643917747292935, guid: 52d331c607bfb6d4ca2aeb01fd919f8d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4622643917747292937, guid: 52d331c607bfb6d4ca2aeb01fd919f8d, type: 3}
       propertyPath: m_GravityScale
       value: 7

@@ -18,6 +18,8 @@ GameObject:
   - component: {fileID: 4937956258298803099}
   - component: {fileID: 3815127226137097942}
   - component: {fileID: 3827557849867312150}
+  - component: {fileID: 2390809565190021283}
+  - component: {fileID: 3283718587299598368}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -240,6 +242,33 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e19f75aa47e0471387759799ef727e77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2390809565190021283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4622643917747292931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9df333d5a8248b8bd22c618d655b1f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementSpeed: 8
+  sprintSpeed: 20
+  climbingSpeed: 5
+--- !u!114 &3283718587299598368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4622643917747292931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9342751b1e8e45eab2325cb46322af92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4622643918646781510

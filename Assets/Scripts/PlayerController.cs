@@ -86,11 +86,11 @@ public class PlayerController : MonoBehaviour
             ManageFallingState();
             ManageMovingAudio();
             ManageClimbingAnimation();
-            ManagePlayerMovement();
+            // ManagePlayerMovement();
         }
         else if (!IsInJumpingState())
         {
-            StopMovement();
+            // StopMovement();
         }
     }
 
@@ -100,7 +100,7 @@ public class PlayerController : MonoBehaviour
         _gameSession.DropOneLife();
         _isDead = true;
         _animator.SetTrigger(IsDying);
-        FreezePlayer();
+        // FreezePlayer();
         _playerStatsController.enabled = false;
         Debug.Log("You are dead xd");
     }
@@ -198,12 +198,12 @@ public class PlayerController : MonoBehaviour
 
     private void ManagePlayerMovement()
     {
-        MovePlayerHorizontal();
-        
-        if (IsClimbingPossible() && !IsInJumpingState())
-        {
-            MovePlayerVertical();
-        }
+        // MovePlayerHorizontal();
+        //
+        // if (IsClimbingPossible() && !IsInJumpingState())
+        // {
+        //     MovePlayerVertical();
+        // }
     }
 
     private bool IsClimbingPossible()
@@ -211,33 +211,33 @@ public class PlayerController : MonoBehaviour
         return _rigidbody2D.IsTouchingLayers(LayerMask.GetMask("Climbing"));
     }
 
-    private void MovePlayerHorizontal()
-    {
-        float speed = _isInSprintState ? sprintSpeed : movementSpeed;
-        _rigidbody2D.velocity = new Vector2(_horizontalMovementInput * speed, _rigidbody2D.velocity.y);
-    }
-
-    private void MovePlayerVertical()
-    {
-        _rigidbody2D.velocity = new Vector2(_rigidbody2D.velocity.x, _verticalMovementInput * climbingSpeed);
-    }
-
-    private void StopMovement()
-    {
-        _rigidbody2D.velocity = Vector2.zero;
-    }
-
-    private void FreezePlayer()
-    {
-        StopMovement();
-        _audioPlayer.DisablePlayingStepsClips();
-        _rigidbody2D.isKinematic = true;
-    }
-
-    private void UnfreezePlayer()
-    {
-        _rigidbody2D.isKinematic = false;
-    }
+    // private void MovePlayerHorizontal()
+    // {
+    //     float speed = _isInSprintState ? sprintSpeed : movementSpeed;
+    //     _rigidbody2D.velocity = new Vector2(_horizontalMovementInput * speed, _rigidbody2D.velocity.y);
+    // }
+    //
+    // private void MovePlayerVertical()
+    // {
+    //     _rigidbody2D.velocity = new Vector2(_rigidbody2D.velocity.x, _verticalMovementInput * climbingSpeed);
+    // }
+    //
+    // private void StopMovement()
+    // {
+    //     _rigidbody2D.velocity = Vector2.zero;
+    // }
+    //
+    // private void FreezePlayer()
+    // {
+    //     StopMovement();
+    //     _audioPlayer.DisablePlayingStepsClips();
+    //     _rigidbody2D.isKinematic = true;
+    // }
+    //
+    // private void UnfreezePlayer()
+    // {
+    //     _rigidbody2D.isKinematic = false;
+    // }
 
     private void OnCloseAttack()
     {
@@ -449,7 +449,7 @@ public class PlayerController : MonoBehaviour
         _audioPlayer.PlayTeleportInClip(transform.position);
         _animator.SetBool(IsTeleporting, true);
         
-        FreezePlayer();
+        // FreezePlayer();
         yield return new WaitForSecondsRealtime(timeOfTeleportIn);
         
         transform.position = coordinates;
@@ -457,7 +457,7 @@ public class PlayerController : MonoBehaviour
         _animator.SetBool(IsTeleporting, false);
         yield return new WaitForSecondsRealtime(timeOfTeleportIn);
 
-        UnfreezePlayer();
+        // UnfreezePlayer();
         _isInTeleportingState = false;
     }
 
