@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
     private AudioPlayer _audioPlayer;
 
     private static readonly int IsAttacking = Animator.StringToHash("isAttacking");
-    private static readonly int IsMoving = Animator.StringToHash("isMoving");
+    // private static readonly int IsMoving = Animator.StringToHash("isMoving");
     private static readonly int IsClimbingUp = Animator.StringToHash("isClimbingUp");
     private static readonly int IsClimbingDown = Animator.StringToHash("isClimbingDown");
     private static readonly int IsDying = Animator.StringToHash("isDying");
@@ -81,7 +81,7 @@ public class PlayerController : MonoBehaviour
 
         if (!IsInAttackingState() && !_memoryViewState)
         {
-            ManageSpriteFlipping();
+            // ManageSpriteFlipping();
             ManageMovingAnimation();
             ManageFallingState();
             ManageMovingAudio();
@@ -117,17 +117,17 @@ public class PlayerController : MonoBehaviour
         _playerStatsController.SprintStateOff();
     }
 
-    private void ManageSpriteFlipping()
-    {
-        if (HasPlayerHorizontalSpeed())
-        {
-            transform.localScale = new Vector2(Mathf.Sign(_rigidbody2D.velocity.x), 1f);
-        }
-    }
+    // private void ManageSpriteFlipping()
+    // {
+    //     if (HasPlayerHorizontalSpeed())
+    //     {
+    //         transform.localScale = new Vector2(Mathf.Sign(_rigidbody2D.velocity.x), 1f);
+    //     }
+    // }
 
     private void ManageMovingAnimation()
     {
-        _animator.SetBool(IsMoving, HasPlayerHorizontalSpeed());
+        // _animator.SetBool(IsMoving, HasPlayerHorizontalSpeed());
         _animator.SetBool(IsSprinting, _isInSprintState);
     }
 
@@ -146,20 +146,20 @@ public class PlayerController : MonoBehaviour
 
     private void ManageMovingAudio()
     {
-        if (HasPlayerHorizontalSpeed())
-        {
-            _audioPlayer.EnablePlayingStepsClips();
-        }
-        else
-        {
-            _audioPlayer.DisablePlayingStepsClips();
-        }
+        // if (HasPlayerHorizontalSpeed())
+        // {
+        //     _audioPlayer.EnablePlayingStepsClips();
+        // }
+        // else
+        // {
+        //     _audioPlayer.DisablePlayingStepsClips();
+        // }
     }
 
-    private bool HasPlayerHorizontalSpeed()
-    {
-        return Mathf.Abs(_rigidbody2D.velocity.x) >= MinHorizontalSpeed;
-    }
+    // private bool HasPlayerHorizontalSpeed()
+    // {
+    //     return Mathf.Abs(_rigidbody2D.velocity.x) >= MinHorizontalSpeed;
+    // }
 
     private void ManageClimbingAnimation()
     {
@@ -196,15 +196,15 @@ public class PlayerController : MonoBehaviour
         return Mathf.Abs(_rigidbody2D.velocity.y) >= MinVerticalSpeed;
     }
 
-    private void ManagePlayerMovement()
-    {
-        // MovePlayerHorizontal();
-        //
-        // if (IsClimbingPossible() && !IsInJumpingState())
-        // {
-        //     MovePlayerVertical();
-        // }
-    }
+    // private void ManagePlayerMovement()
+    // {
+    //     MovePlayerHorizontal();
+    //     
+    //     if (IsClimbingPossible() && !IsInJumpingState())
+    //     {
+    //         MovePlayerVertical();
+    //     }
+    // }
 
     private bool IsClimbingPossible()
     {

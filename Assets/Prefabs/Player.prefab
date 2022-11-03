@@ -104,7 +104,7 @@ Animator:
   m_GameObject: {fileID: 4622643917747292931}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 2ce7c446ae2f1164eb8b12d7007d6da8, type: 2}
+  m_Controller: {fileID: 9100000, guid: 549537eea0dc62b4f8ba74a7168c9330, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -244,6 +244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e19f75aa47e0471387759799ef727e77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  <AnimationCrossFadeDuration>k__BackingField: 0
 --- !u!114 &2390809565190021283
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -257,7 +258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 8
-  sprintSpeed: 20
+  sprintSpeed: 15
   climbingSpeed: 5
 --- !u!114 &3283718587299598368
 MonoBehaviour:

@@ -8,7 +8,12 @@ namespace StateMachine
 
         private void Update()
         {
-            _currentState?.Tick();
+            _currentState?.Update();
+        }
+
+        private void FixedUpdate()
+        {
+            _currentState?.FixedUpdate();
         }
 
         public void SwitchState(State state)
