@@ -23,16 +23,16 @@ namespace StateMachine.Player
         
         public override void Enter()
         {
+            _inputReader.LowJumpEvent += HandleLowJump;
+            _inputReader.HighJumpEvent += HandleHighJump;
+            
             _animator.CrossFadeInFixedTime(IdleStateHash, StateMachine.AnimationCrossFadeDuration);
         }
 
         public override void Update()
         {
             UpdateAnimator();
-            if (_inputReader.MovementValue != 0)
-            {
-                FaceToMovementDirection();
-            }
+            ManageFlippingCharacter();
         }
 
         public override void FixedUpdate()
@@ -40,9 +40,10 @@ namespace StateMachine.Player
             _playerMover.MovePlayerHorizontal(_inputReader.MovementValue, _inputReader.IsSprinting);
         }
 
-        private void FaceToMovementDirection()
+        public override void Exit()
         {
-            StateMachine.transform.localScale = new Vector2(Mathf.Sign(_inputReader.MovementValue), 1f);
+            _inputReader.LowJumpEvent -= HandleLowJump;
+            _inputReader.HighJumpEvent -= HandleHighJump;
         }
 
         private void UpdateAnimator()

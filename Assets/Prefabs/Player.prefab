@@ -260,6 +260,11 @@ MonoBehaviour:
   movementSpeed: 8
   sprintSpeed: 15
   climbingSpeed: 5
+  lowJumpValue: 20
+  highJumpValue: 30
+  jumpBarLoadingSpeed: 2
+  legsCollider: {fileID: 1523781261120779255}
+  _jumpBar: 0
 --- !u!114 &3283718587299598368
 MonoBehaviour:
   m_ObjectHideFlags: 0

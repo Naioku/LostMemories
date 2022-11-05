@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -5,6 +6,9 @@ namespace Core
 {
     public class InputReader : MonoBehaviour, Controls.IPlayerActions
     {
+        public event Action LowJumpEvent;
+        public event Action<bool> HighJumpEvent;
+        
         public float MovementValue { get; private set; }
         public float ClimbingValue { get; private set; }
         public bool IsSprinting { get; private set; }
@@ -37,6 +41,19 @@ namespace Core
         public void OnSprint(InputAction.CallbackContext context)
         {
             IsSprinting = context.ReadValueAsButton();
+        }
+
+        public void OnLowJump(InputAction.CallbackContext context)
+        {
+            if (!context.performed) return;
+            
+            LowJumpEvent?.Invoke();
+        }
+
+        public void OnHighJump(InputAction.CallbackContext context)
+        {
+            if (context.started) HighJumpEvent?.Invoke(true);
+            if (context.canceled) HighJumpEvent?.Invoke(false);
         }
     }
 }
