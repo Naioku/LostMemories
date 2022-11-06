@@ -1,4 +1,4 @@
-using System.Collections;
+using Stats;
 using UnityEngine;
 
 namespace Locomotion.Player
@@ -10,15 +10,16 @@ namespace Locomotion.Player
         [SerializeField] private float climbingSpeed = 5;
         [SerializeField] private float lowJumpValue = 20;
         [SerializeField] private float highJumpValue = 30;
-        [SerializeField] private float jumpBarLoadingSpeed = 2;
+        // [SerializeField] private float jumpBarLoadingSpeed = 2;
         [SerializeField] private Collider2D legsCollider;
 
         private Rigidbody2D _rigidbody2D;
-        public float _jumpBar;
-        private Coroutine _jumpBarCoroutine;
+        private PlayerStats _playerStats;
+        // public float _jumpBar;
+        // private Coroutine _jumpBarCoroutine;
 
-        private bool IsJumpBarLoaded => Mathf.Approximately(_jumpBar, 1);
-        private bool IsJumpBarUnloaded => Mathf.Approximately(_jumpBar, 0);
+        // private bool IsJumpBarLoaded => Mathf.Approximately(_jumpBar, 1);
+        // private bool IsJumpBarUnloaded => Mathf.Approximately(_jumpBar, 0);
 
         public bool IsGrounded => legsCollider.IsTouchingLayers(LayerMask.GetMask("Ground"));
 
@@ -27,6 +28,7 @@ namespace Locomotion.Player
         private void Awake()
         {
             _rigidbody2D = GetComponent<Rigidbody2D>();
+            _playerStats = GetComponent<PlayerStats>();
             // _audioPlayer = GetComponent<AudioPlayer>();
         }
 
@@ -45,68 +47,66 @@ namespace Locomotion.Player
 
         public bool JumpHigh(bool isButtonDown)
         {
-            StopJumpBar();
+            _playerStats.StopJumpBar();
 
             if (isButtonDown)
             {
-                LoadJumpBar();
+                _playerStats.LoadJumpBar();
             }
             else
             {
-                if (IsJumpBarLoaded)
+                if (_playerStats.IsJumpBarLoaded)
                 {
                     Jump(highJumpValue);
-                    _jumpBar = 0;
+                    _playerStats.ResetJumpBar();
                     return true;
                 }
-                else
-                {
-                    UnloadJumpBar();
-                }
+
+                _playerStats.UnloadJumpBar();
             }
 
             return false;
         }
 
-        private void LoadJumpBar()
-        {
-            StopJumpBar();
-
-            _jumpBarCoroutine = StartCoroutine(JumpLoadingCoroutine());
-        }
-        
-        private void UnloadJumpBar()
-        {
-            StopJumpBar();
-
-            _jumpBarCoroutine = StartCoroutine(JumpUnloadingCoroutine());
-        }
-        
-        private void StopJumpBar()
-        {
-            if (_jumpBarCoroutine != null)
-            {
-                StopCoroutine(_jumpBarCoroutine);
-            }
-        }
-
-        private IEnumerator JumpLoadingCoroutine()
-        {
-            while (!IsJumpBarLoaded)
-            {
-                _jumpBar = Mathf.Min(1, _jumpBar + Time.deltaTime * jumpBarLoadingSpeed);
-                yield return null;
-            }
-        }
-        
-        private IEnumerator JumpUnloadingCoroutine()
-        {
-            while (!IsJumpBarUnloaded)
-            {
-                _jumpBar = Mathf.Max(0, _jumpBar - Time.deltaTime * jumpBarLoadingSpeed);
-                yield return null;
-            }
-        }
+        // private void LoadJumpBar()
+        // {
+        //     StopJumpBar();
+        //
+        //     _jumpBarCoroutine = StartCoroutine(JumpLoadingCoroutine());
+        // }
+        //
+        // private void UnloadJumpBar()
+        // {
+        //     StopJumpBar();
+        //
+        //     _jumpBarCoroutine = StartCoroutine(JumpUnloadingCoroutine());
+        // }
+        //
+        // private void StopJumpBar()
+        // {
+        //     if (_jumpBarCoroutine != null)
+        //     {
+        //         StopCoroutine(_jumpBarCoroutine);
+        //     }
+        // }
+        //
+        // private IEnumerator JumpLoadingCoroutine()
+        // {
+        //     while (!IsJumpBarLoaded)
+        //     {
+        //         _jumpBar = Mathf.Min(1, _jumpBar + Time.deltaTime * jumpBarLoadingSpeed);
+        //         yield return null;
+        //     }
+        // }
+        //
+        // private IEnumerator JumpUnloadingCoroutine()
+        // {
+        //     while (!IsJumpBarUnloaded)
+        //     {
+        //         _jumpBar = Mathf.Max(0, _jumpBar - Time.deltaTime * jumpBarLoadingSpeed);
+        //         yield return null;
+        //     }
+        // }
         
         private void Jump(float jumpValue)
         {
